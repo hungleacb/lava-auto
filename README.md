@@ -26,7 +26,7 @@ You can manually trigger the workflow from the GitHub UI by selecting the "Run w
 
 ## Files
 
-- **ethereum.sh**: Script to fetch data from the Ethereum network.
+- **ethereum.sh**: Script to fetch data from the Ethereum network.sol
 - **near.sh**: Script to fetch data from the NEAR network.
 - **starknet.sh**: Script to fetch data from the StarkNet network.
 - **axelar.sh**: Script to fetch data from the Axelar network.
